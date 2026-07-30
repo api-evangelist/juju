@@ -1,4 +1,16 @@
 aid: juju
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/juju.png
 name: Juju
 description: "Job search engine"
 url: http://www.juju.com/publisher/spec/
